@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Cheap Flights"
+  short_description: "Compare flight prices across booking sites"
+  default_prompt: "Use $find-cheap-flights to find the cheapest flights for my route over the next month."
